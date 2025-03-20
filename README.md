@@ -102,10 +102,12 @@ You can find t-shirts, hoodies and stickers for Kubernetes at the CNCF [store](h
   * [Confidential Containers](examples/sandbox.md#confidential-containers-logos)
   * [Connect RPC](examples/sandbox.md#connect-rpc-logos)
   * [ContainerSSH](examples/sandbox.md#containerssh-logos)
+  * [Cozystack](examples/sandbox.md#cozystack-logos)
   * [Devfile](examples/sandbox.md#devfile-logos)
   * [devspace](examples/sandbox.md#devspace-logos)
   * [DevStream](examples/sandbox.md#devstream-logos)
   * [Dex](examples/sandbox.md#dex-logos)
+  * [Drasi](examples/sandbox.md#drasi-logos)
   * [Easegress](examples/sandbox.md#easegress-logos)
   * [Eraser](examples/sandbox.md#eraser-logos)
   * [external-secrets](examples/sandbox.md#external-secrets-operator-logos)
@@ -273,3 +275,7 @@ Use of any trademark or logo is subject to the trademark policy available at <ht
 The [Certified Kubernetes](/projects/kubernetes/certified-kubernetes) marks are only available for use with [conformant](https://www.cncf.io/certification/software-conformance/) implementations and must comply with the [brand guidelines](/projects/kubernetes/certified-kubernetes/certified-kubernetes-brand-guide.pdf).
 
 Questions? Please email [info@cncf.io](mailto:info@cncf.io).
+
+## Updates to this repo
+
+Updates to this repo require two approvals to be merged in. One from a CNCF staff member, and the other from a project maintainer whose project's artwork is being updated. (Note: we can bypass branch protections for PRs made by maintainers.)
